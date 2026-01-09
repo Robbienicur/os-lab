@@ -30,7 +30,7 @@ Entra al contenedor y ejecuta:
 
 Entra al contenedor y ejecuta:
 ```
-vim ruta/del/archivo/archivo.extensión
+vim ruta/del/archivo/archivo.extension
 ```
 
 Comandos básicos (Primero aprieta ctrl + c):
